@@ -1,16 +1,18 @@
-<h1 align="left">Hi there, I'm Ahmad Hideo Alfarisi! 👋</h1>
-
 <div align="center">
-  <img height="328" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNlb2N4cXB5aXp6bGo1djRzOHh6ZjY2eTByc2g5NmRocnU3YnJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ri1DhmqEWGbRK/giphy.gif" alt="Coding Animation" />
+  <img src="img/github-header-image.png" alt="GitHub Header" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWo0bTJxY3dvNXM4YmwwcTR1bTkyeGlwcG5nNHYydGpucnNodzZpZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xdgisqRDFyO9G/giphy.gif" height="240" alt="Coding GIF" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-🎓 I'm a **Computer Engineering student** with a passion for crafting interactive and impactful web experiences.  
-💻 I’m diving into the world of **full-stack development**, constantly sharpening my skills in both **frontend** and **backend** technologies.  
-🌱 Currently exploring frameworks and tools to build modern web applications.
+Hi! I'm **Ahmad Hideo**, a Computer Engineering student with a strong interest in tech and innovation.  
+I love bringing ideas to life through **web development**, from frontend design to backend logic.  
+Currently, I'm exploring the world of **full-stack development**, working with modern tools, and constantly learning to improve my craft.  
+I'm passionate about clean code, good UI/UX, and building things that matter.
 
 ---
 
@@ -53,11 +55,11 @@
 
 ---
 
-### 🎧 Currently Listening On Spotify
+### 🎧 Currently Listening on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/hideoahmad">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hideoahmad&count=2&unique=false" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hideoahmad-id&count=1&width=400&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
 
