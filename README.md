@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmad%20Hideo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmad%20Hideo&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20Developer%20&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
@@ -113,20 +113,6 @@ ahmad.sayHi();
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider" />
 </div>
-
-<br>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/hideoahmad/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hideoahmad&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/hideoahmad/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hideoahmad&repo=project2&theme=radical&hide_border=true&bg_color=0d1117" alt="Project 2" />
-  </a>
-</div>
-
 <br>
 
 ## 📈 Detailed Analytics
@@ -192,8 +178,4 @@ ahmad.sayHi();
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" />
 </div>
