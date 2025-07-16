@@ -39,12 +39,12 @@ class Developer {
     this.role = "Computer Engineering Student";
     this.location = "Indonesia 🇮🇩";
     this.languages = ["JavaScript", "Python", "PHP"];
-    this.databases = ["MySQL", "MongoDB", "Firebase"];
+    this.databases = ["MySQL", "Firebase"];
     this.frameworks = ["React", "Vue.js", "Laravel", "Next.js"];
     this.currentFocus = "Full-Stack Development";
     this.lifePhilosophy = "Code is poetry, bugs are just misplaced semicolons";
-    this.hobbies = ["Coding", "Problem Solving", "Tech Innovation"];
-    this.goals2024 = [
+    this.hobbies = ["Coding"];
+    this.goals2025 = [
       "Master TypeScript",
       "Build 10 Projects",
       "Contribute to Open Source",
@@ -65,10 +65,6 @@ class Developer {
 const ahmad = new Developer();
 ahmad.sayHi();
 ```
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hideoahmad&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=ffffff&area=true&hide_border=true&custom_title=Ahmad's%20Contribution%20Graph" alt="Activity Graph" />
-</div>
 
 <br>
 
@@ -110,7 +106,7 @@ ahmad.sayHi();
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" alt="Music" />
 </div>
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hideoahmad-id&count=3&width=600&unique=true" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hideoahmad-id&count=2&width=600&unique=true" alt="Spotify Recently Played" />
   <br>
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </div>
@@ -189,32 +185,6 @@ ahmad.sayHi();
 </div>
 
 <br>
-
-## 🎯 Current Goals & Roadmap
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=800&lines=🎯+2024+Goals%3A+Master+TypeScript+%26+Next.js;🚀+Build+10+Amazing+Projects;🤝+Contribute+to+Open+Source;📚+Learn+DevOps+%26+Cloud+Technologies;💼+Land+a+Software+Engineer+Role" alt="Goals" />
-</div>
-
-<br>
-
-## 🎮 Fun Zone
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=0d1117&textColor=ffffff&aColor=FF6B6B&borderColor=4ECDC4" alt="Jokes Card" />
-</div>
-
-<br>
-
-## 📊 WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hideoahmad&theme=radical&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<br>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%A4%9D;Happy+coding!+%F0%9F%92%BB%E2%9C%A8" alt="Closing Message" />
